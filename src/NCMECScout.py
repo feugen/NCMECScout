@@ -1,5 +1,5 @@
 # ###################################################### #
-# ######      Software: PedoScout                 ###### #
+# ######      Software: NCMECScout                 ###### #
 # ######      License: GPLv3                      ###### #
 # ######      Author: Eugen Fischer               ###### #
 # ######      Email: suppenphysik@gmail.com       ###### #
