@@ -579,20 +579,6 @@ if stat_analysis:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Addtionaly in formated_data correct the data:
 # 36710: removed, cant get data
 # 41063: remove 3 blank lines
